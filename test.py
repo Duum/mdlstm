@@ -1,4 +1,4 @@
-import from mdlstm *
+from mdlstm import *
 from random import randint
 import numpy as np
 
